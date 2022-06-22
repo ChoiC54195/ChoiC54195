@@ -29,7 +29,12 @@ Blog. http://choic.tistory.com
 <br/>
 ## Repo
 algorithms-in-java : 자바로 하는 알고리즘 문제 풀기(백준알고리즘, 해커랭크, 프로그래머스)<br/><br/>
-                     
+
+Board : 스프링 게시판 만들기<br/>
+ - SpringMVC01 : 기본 스프링 게시판<br/>
+ - SpringMVC02 : 3tie구조, Ajax, 스프링 게시판<br/>
+ - SpringMVC03 : 로그인 기능 구현<br/>
+<br/>
 2022-SMHRD-KDT-AI-1/ActivityPlanner_2 : 대외활동추천 웹사이트<br/>
                                         https://github.com/2022-SMHRD-KDT-AI-1/ActivityPlanner_2<br/><br/>
                                         
